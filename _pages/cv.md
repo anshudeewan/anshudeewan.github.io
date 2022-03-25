@@ -26,19 +26,19 @@ Skills and Certifications
 
 Work experience
 ------
-* 2016 - 2022: Graduate Thesis Student, Department of Chemical and Biomolecular Engineering
+* **2016 - 2022: Graduate Thesis Student, Department of Chemical and Biomolecular Engineering**
   * University of Illinois, Urbana-Champaign, IL USA 
   * Summary: 
 
-* 2014 - 2016: Global Product Development Manager 
+* **2014 - 2016: Global Product Development Manager**
   * Unilever, Research and Development, Mumbai, India
   * Summary: 
 
-* 2012 - 2014: Unilever Future Leadership Program - Trainee 
-  * Unilever, Research and Development, Mumbai, India 
+* **2012 - 2014:Unilever Future Leadership Program - Trainee**
+  * Unilever, Research and Development, Mumbai, India
   * Summary: 
 
-* 2011 - 2012: Undergraduate Research Student 
+* **2011 - 2012: Undergraduate Research Student**
   * Indian Institute of Technology, Delhi, India 
   * Supervisor: Prof. Vivek V. Buwa, Chemical Engineering
   * Summary: 
