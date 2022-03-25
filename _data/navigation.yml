@@ -1,9 +1,18 @@
 # main links links
 main:
     
-  - title: "Resume"
-    url: /cv/
-    
+  - title: "Education"
+    url: /cv/ 
+
+  - title: "Research"
+    url: /research/
+        
+  - title: "Experience"
+    url: /work/
+
+  - title: "Skills"
+    url: /skills/
+
   - title: "Publications"
     url: /publications/
 
