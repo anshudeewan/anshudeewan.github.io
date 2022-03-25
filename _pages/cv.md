@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+A copy of my updated resume can be found [here](../files/resume.pdf)
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* B.Tech. in Chemical Engineering, Indian Institute of Technology (IIT), Delhi, India, 2012
+* Ph.D in Chemical Engineering, University of Illinois, Urbana-Champaign, 2022 (expected)
+  * Concentration in Computational Science and Engineering, University of Illinois, Urbana-Champaign, 2022
+  
+Skills and Certifications 
+------
+* **Computational Biology**: NGS data analysis: Whole-genome sequencing, RNA sequencing analysis, Single-cell RNA sequencing analysis, Cancer genomics, Variant calling, Homology identification, Multiple sequence alignment, and phylogeny, Regulatory genomics 
+* **Molecular Biology**: Cell culture, RNA extraction, Protein engineering, HPLC, FPLC, Cell-free systems, Cloning, and transformation. 
+* **Programming tools**: Python, R, Unix, Command line scripting (Bash), Matlab, and SQL.
+* **Management**: Executive General Management Program, IIM Bangalore, India (2013)
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* 2016 - 2022: Graduate Thesis Student, Department of Chemical and Biomolecular Engineering
+  * University of Illinois, Urbana-Champaign, IL USA 
+  * Summary: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2014 - 2016: Global Product Development Manager 
+  * Unilever, Research and Development, Mumbai, India
+  * Summary: 
 
-Publications
-======
+* 2012 - 2014: Unilever Future Leadership Program - Trainee 
+  * Unilever, Research and Development, Mumbai, India 
+  * Summary: 
+
+* 2011 - 2012: Undergraduate Research Student 
+  * Indian Institute of Technology, Delhi, India 
+  * Supervisor: Prof. Vivek V. Buwa, Chemical Engineering
+  * Summary: 
+
+
+<!-- Publications
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+Conferences and Talks
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
+Followships and Awards 
+------
+* JME Graduate Student Award, 2020
+* ‘List of Teachers Ranked as Excellent by their Students’, 2019
+*  Parr Fellowship, 2016-17
+*  IIT Delhi Semester Merit Award, 2010-11
