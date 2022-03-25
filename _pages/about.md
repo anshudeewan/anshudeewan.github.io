@@ -1,15 +1,13 @@
 ---
 permalink: /
 title: "Anshu Deewan"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About me 
-
+<br> 
 I am a chemical engineer by training with 5+ years of research experience in Computational Genomics using Next Generation Sequencing & bioinformatics. My Ph.D. work has been focused on generating insights about cellular behavior using various genomics and bioinformatics data analyses.
 
 My Ph.D. advisor is [Prof. Christopher V. Rao](https://chbe.illinois.edu/directory/profile/cvrao) ([Rao Research Group](https://raogroupuiuc.github.io/webpage/)), and my research work is funded by the following grants by U.S. [Department of Energy](https://www.energy.gov/science/office-science): Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)) and Genome Scale Engineering Center ([GSE](https://www.igb.illinois.edu/research-areas/gsecenter)).
