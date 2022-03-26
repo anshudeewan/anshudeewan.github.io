@@ -11,7 +11,7 @@ redirect_from:
 
 RNA sequencing analysis
 ------
-Metabolic engineering in yeasts has traditionally been focused on model organisms such as baker's yeast. Our work focuses on studying non-model organisms that offer unique advantages for producing valuable compounds. I have used RNA sequencing analysis as a tool to explore the metabolism of various oil-producing yeasts like _Rhodosporidium toruloides_, _Lipomyces starkeyi_, and methane-consuming bacteria like _Methylococcus capsulatus_. These analyses have led us to identify new opportunities for genetic engineering of these microbes.    
+Metabolic engineering in yeasts has traditionally been focused on model organisms such as baker's yeast. Our work focuses on studying non-model organisms that offer unique advantages for producing valuable compounds. I have used RNA sequencing analysis as a tool to explore the metabolism of various oil-producing yeasts like _Rhodosporidium toruloides_, _Lipomyces starkeyi_, and methane-consuming bacteria like _Methylococcus capsulatus_. These analyses have build on our understanding of these microbes by advancing our knowledge of gene functions and led us to identify new opportunities for genetic engineering.    
 
 Genome sequencing and mutation analysis
 ------
@@ -23,6 +23,5 @@ Simultaneous co-fermentation of glucose and xylose, the two most abundant sugars
 
 Mathematical modeling of storage metabolism
 ------
-Text 
-* Bullet
-
+Storage metabolism is the cellular response to the presence of excess carbon while other nutrients (like nitrogen, phosphorus) are limiting. Bacteria store excess carbon as glycogen and polyhydroxybutyrate. Yeasts and human cells store it as glycogen or lipids. While storage is not essential for cell survival,  the ability to accumulate storage lipids influences long-term survival. Storage metabolites can also be used by the cell to cope with starvation conditions, store toxins inside organelles such as lipid bodies, or maintain cellular homeostasis. <br>
+In this work, we design a dynamic model to explain the cellular strategy behind storage metabolism and attempt to quantify the benefit of storage. It uses existing allocation-based models alongside multi-omic data to generate model parameters. Once established, it can be further used to guide experimental design for optimal lipid production. 
