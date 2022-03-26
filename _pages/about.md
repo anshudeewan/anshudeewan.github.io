@@ -15,3 +15,11 @@ My Ph.D. advisor is [Prof. Christopher V. Rao](https://chbe.illinois.edu/directo
 I have previously been a part of [Unilever Future Leaders Programme](https://careers.unilever.com/unilever-future-leaders-programme) and worked as a Product Manager with [Unilever Research](https://www.hul.co.in/our-company/rd-innovation/our-rd-locations/mumbai-india/). I am skilled in interdisciplinary research & project management in both academic and industry settings.
 
 A detailed account of my work can be found in my [resume](../files/resume.pdf). 
+
+
+Research interests 
+------
+- Systems Biology 
+- Eukaryotic genomics and bioinformatics
+- Next Generation Sequencing analysis 
+- Cellular metabolism of non-model organisms

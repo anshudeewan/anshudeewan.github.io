@@ -14,7 +14,7 @@ A copy of my updated resume can be found [here](../files/resume.pdf)
 Education
 ------
 * B.Tech. in Chemical Engineering, Indian Institute of Technology (IIT), Delhi, India, 2012
-* Ph.D in Chemical Engineering, University of Illinois, Urbana-Champaign, 2022 (expected)
+* Ph.D. in Chemical Engineering, University of Illinois, Urbana-Champaign, 2022 (expected)
   * Concentration in Computational Science and Engineering, University of Illinois, Urbana-Champaign, 2022
 
 Fellowships and Awards 
