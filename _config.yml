@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &AnshuDeewan
+  username               : # &AnshuDeewan
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anshu Deewan"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at University of Illinois, Urbana-Champaign"
-  location         : "Champaign, IL"
+  bio              : "Bioinformatics Scientist at NIAID Collaborative Bioinformatics Resource, NIH"
+  location         : "Bethesda, MD"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=anshu+deewan"
   googlescholar    : "https://scholar.google.com/citations?user=xWlcH0YAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AnshuDeewan"
+  twitter          : # "AnshuDeewan"
   vine             :
   weibo            :
   xing             :
