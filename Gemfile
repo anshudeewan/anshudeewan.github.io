@@ -19,12 +19,13 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo", "~> 1.2"
 gem 'tzinfo-data'
-
+gem 'bigdecimal'
+gem 'fiddle'
 gem "webrick"
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
