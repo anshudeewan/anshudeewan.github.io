@@ -18,7 +18,11 @@ Education
   * Advisor: Dr. Chris V. Rao [Webpage](https://raogroupuiuc.github.io/webpage/){:target="_blank"}, [Email](mailto:cvrao@illinois.edu)
   * Dissertation: [Developing oleaginous yeast as model organisms for lipid production](../files/Deewan_Dissertation_2022.pdf){:target="_blank"}, 2022
   * Graduate Concentration in [Computational Science and Engineering](https://cse.illinois.edu/cse-educational-programs/graduate-concentration/){:target="_blank"}, 2022
+* Online Certification Program, Harvard Medical School, 2024
+  * HMX Fundamentals - [Immunology](../files/2024_HMX_Immunology_Certificate.pdf){:target="_blank"}
+  * HMX Fundamentals - [Genetics](../files/2024_HMX_Genetics_Certificate.pdf){:target="_blank"}
 
+  
 Fellowships and Awards 
 ------
 * JME Graduate Student Award, 2020
