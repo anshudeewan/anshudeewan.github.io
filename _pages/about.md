@@ -17,8 +17,6 @@ My Ph.D. work was focused on generating insights about cellular behavior of diff
 
 I have previously been a part of [Unilever Future Leaders Programme](https://careers.unilever.com/unilever-future-leaders-programme){:target="_blank"} and worked as a Product Manager with [Unilever Research](https://www.hul.co.in/our-company/rd-innovation/our-rd-locations/mumbai-india/){:target="_blank"}. I am skilled in interdisciplinary research & project management in both academic and industry settings.
 
-
-
 Research interests [TODO]
 ------
 - Systems Biology 

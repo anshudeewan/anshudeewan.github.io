@@ -15,7 +15,6 @@ table {
 }
 </style>
 <br>
-<br>
 
 | **Programming Skills**    | R, Python, Linux, Bash scripting, High Performance Computing (SLURM), Git, Pipeline management (snakemake, nextflow), Code Documentation, MATLAB, and SQL |
 | **Bioinformatics**        | NGS data analysis, Bulk and single cell RNA-seq, TCR-seq, CITE-seq; Whole Genome Sequencing, Metagenomics, Cancer genomics, Variant calling, Homology identification, Multiple sequence alignment, and phylogeny; ChIP-seq, CUT&Tag; long-read sequence assembly |

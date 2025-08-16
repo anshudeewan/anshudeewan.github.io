@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ------
 * B.Tech. in [Chemical Engineering](http://chemical.iitd.ac.in/){:target="_blank"}, [Indian Institute of Technology](https://home.iitd.ac.in/){:target="_blank"} (IIT), Delhi, India, 2012
   * Advisor: Dr. V.V.Buwa [Webpage](https://web.iitd.ac.in/~vvbuwa/){:target="_blank"}, [Email](mailto:vvbuwa@iitd.ac.in )
