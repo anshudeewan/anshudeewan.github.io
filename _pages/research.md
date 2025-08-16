@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[TODO]
+
 RNA sequencing analysis
 ------
 Metabolic engineering in yeasts has traditionally been focused on model organisms such as baker's yeast. Our work focuses on studying non-model organisms that offer unique advantages for producing valuable compounds. I have used RNA sequencing analysis as a tool to explore the metabolism of various oil-producing yeasts like _Rhodosporidium toruloides_, _Lipomyces starkeyi_, and methane-consuming bacteria like _Methylococcus capsulatus_. These analyses have build on our understanding of these microbes by advancing our knowledge of gene functions and led us to identify new opportunities for genetic engineering.    

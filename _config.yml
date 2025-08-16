@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anshu Deewan"
+  name             : "Anshu Deewan, Ph.D."
   avatar           : "profile.png"
-  bio              : "Bioinformatics Scientist at NIAID Collaborative Bioinformatics Resource, NIH"
+  bio              : "Bioinformatics Scientist ex-NIH, ex-Unilever"
   location         : "Bethesda, MD"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=anshu+deewan"
-  googlescholar    : "https://scholar.google.com/citations?user=xWlcH0YAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=AgGhccwAAAAJ&hl=en"
   email            :  "adeewan.work@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
