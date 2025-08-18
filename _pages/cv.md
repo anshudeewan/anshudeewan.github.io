@@ -12,7 +12,7 @@ redirect_from:
 ------
 * B.Tech. in [Chemical Engineering](http://chemical.iitd.ac.in/){:target="_blank"}, [Indian Institute of Technology](https://home.iitd.ac.in/){:target="_blank"} (IIT), Delhi, India, 2012
   * Advisor: Dr. V.V.Buwa [Webpage](https://web.iitd.ac.in/~vvbuwa/){:target="_blank"}, [Email](mailto:vvbuwa@iitd.ac.in )
-  * Dissertation: [Numberical Simulations of Fluid Flow and Heat Transfer in Structured Reactors](../files/Deewan_Dissertation_2012.pdf){:target="_blank"}, 2012.
+  * Dissertation: [Numerical Simulations of Fluid Flow and Heat Transfer in Structured Reactors](../files/Deewan_Dissertation_2012.pdf){:target="_blank"}, 2012.
 * Ph.D. in [Chemical Engineering](https://chbe.illinois.edu/){:target="_blank"}, [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"}, 2022
   * Advisor: Dr. Chris V. Rao [Webpage](https://raogroupuiuc.github.io/webpage/){:target="_blank"}, [Email](mailto:cvrao@illinois.edu)
   * Dissertation: [Developing oleaginous yeast as model organisms for lipid production](../files/Deewan_Dissertation_2022.pdf){:target="_blank"}, 2022
