@@ -1,25 +1,23 @@
 ---
 permalink: /
-title: "Anshu Deewan"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<br> 
-Ph.D. Bioinformatician with 8+ years of research experience in Computational Genomics using Next Generation Sequencing, most recently including 3 years at the U.S. National Institutes of Health. Hands-on experience in genomic data processing and analysis of sequencing data sets derived from short and long reads that involve bulk and single cell RNA-Seq, metagenomics, and bulk/single cell TCR-seq. Four years of prior work experience as a Product Manager with Unilever Research. 
 
-[TODO]
-I am a chemical engineer by training with 8+ years of research experience in Bioinformatics and Computational Genomics using Next Generation Sequencing. As a part of the [Integrated Data Sciences Section (IDSS)](https://www.niaid.nih.gov/research/research-technologies-branch-integrated-data-sciences) at the [National Institute of Health (NIH)](https://www.nih.gov/), Maryland US, I provided bioinformatics support to research groups at NIAID, NIAMS, NIDDK and NHLBI, performing data analysis and designing end to end workflows for various single cell and bulk transcriptomic and genomic datasets. 
+Hi! I am a Chemical Engineer turned Bioinformatician, with a passion for public health. Working at the US National Insitute of Health, I have supported reseach groups in sequencing data analysis for various clinical and research projects focused on diseasses of the immune system (such as Hyper Eosinophilic Syndrome, Spondyloarthritis, Type 1 Interferonopathy, etc.) I am trained in immunology, and human and cancer genomics. I specialise in Single Cell and Bulk RNA sequecing data analysis, along with T-Cell Reportoire analysis. A more comprehensive list of my skills and certifications is [linked here](https://anshudeewan.github.io/skills/){:target="_blank"}. 
 
-My Ph.D. work was focused on generating insights about cellular behavior of different yeasts and bacteria using various genomics and bioinformatics data analyses. My advisor is [Prof. Christopher V. Rao](https://chbe.illinois.edu/directory/profile/cvrao){:target="_blank"} ([Rao Research Group](https://raogroupuiuc.github.io/webpage/){:target="_blank"}), and my research work is funded by the following grants by U.S. [Department of Energy](https://www.energy.gov/science/office-science){:target="_blank"}: Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/){:target="_blank"}) and Genome Scale Engineering Center ([GSE](https://www.igb.illinois.edu/research-areas/gsecenter){:target="_blank"}).
+I started my career in Bioinformatics during my Ph.D., where I focused on the cellular mechanisms of different yeasts and bacteria using various genomics and bioinformatics data analyses. In the 8+ years of my genomics career, I have analysed next generation sequencing data for more than 30 projects, involving many organisms (bacterial, yeasts, mouse, monkey and human genomes). I have led data analysis projects, both indepedently and in interdisciplinary groups, to generate meaningful insights from sequecing data. My publication record is [linked here](https://anshudeewan.github.io/publications/){:target="_blank"}. 
 
-I have previously been a part of [Unilever Future Leaders Programme](https://careers.unilever.com/unilever-future-leaders-programme){:target="_blank"} and worked as a Product Manager with [Unilever Research](https://www.hul.co.in/our-company/rd-innovation/our-rd-locations/mumbai-india/){:target="_blank"}. I am skilled in interdisciplinary research & project management in both academic and industry settings.
+I have also previously been a part of [Unilever Future Leaders Programme](https://careers.unilever.com/unilever-future-leaders-programme){:target="_blank"} and worked as a Product Manager with [Unilever Research](https://www.hul.co.in/our-company/rd-innovation/our-rd-locations/mumbai-india/){:target="_blank"}. I am skilled in interdisciplinary research & project management in both academic and industry settings.
 
-Research interests [TODO]
-------
-- Systems Biology 
-- Eukaryotic genomics and bioinformatics
-- Next Generation Sequencing analysis 
-- Cellular metabolism of non-model organisms
+Research Expertise: 
+----
+* Next Generation Sequencing data analysis
+* Single Cell RNA-sequencing analysis with Hashtags, Antibody Capture and Immune Repertiore
+* Metagenomics analysis (viral and bacterial)
+* Immunolgy and human genetics 
+* Yeast and bacterial microbiology
