@@ -12,7 +12,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 * **Epigenetic dysregulation in aged muscle stem cells drives mesenchymal progenitor expansion via IL-6 and Spp1 signaling**. [contributing author]  <br>
 Accepted in *Nature Aging* (August 2025) 
 [Zenodo](https://doi.org/10.5281/zenodo.14166150){:target="_blank"} 
-    * Anaylsis of single cell datasets for various muscle celltypes in healthy and infected mice. 
+    * Analysis of single cell datasets for various muscle celltypes in healthy and infected mice. 
 
 * **Spatial organization of pulmonary type 2 inflammation by a macrophage-derived cholesterol metabolite**. [contributing author]  <br>
 Under Review at *Science* (July 2025) 
@@ -22,7 +22,7 @@ Under Review at *Science* (July 2025)
 ## Bulk RNA sequencing data analysis
 * **PI3Kd promotes T cell effector differentiation and plasticity during chronic infection**. [contributing author]  <br>
 Under Review at *Science Immunology* (July 2025)
-    * Mice RNA-seq
+    * Bulk and single cell RNA-seq in mice models to study the effect of chronic viral infection on T-cell immune response.
 
 * **Translocating bacteria in SIV infection are not stochastic and preferentially express cytosine methyltransferases**. [contributing author]  <br> 
 Published in Mucosal Immunology (2024) 
