@@ -10,8 +10,8 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Single-cell RNA sequencing data analysis 
 * **Epigenetic dysregulation in aged muscle stem cells drives mesenchymal progenitor expansion via IL-6 and Spp1 signaling**. [contributing author]  <br>
-Accepted in *Nature Aging* (August 2025) 
-[Zenodo](https://doi.org/10.5281/zenodo.14166150){:target="_blank"} 
+Published in *Nature Aging* (2025) 
+[Weblink](https://www.nature.com/articles/s43587-025-01002-0){:target="_blank"} 
     * Analysis of single cell datasets for various muscle celltypes in healthy and infected mice. 
 
 * **Spatial organization of pulmonary type 2 inflammation by a macrophage-derived cholesterol metabolite**. [contributing author]  <br>
